@@ -1,4 +1,4 @@
-ui is inside weatger-app folder
+ui is inside weather-app folder
 server is inside server folder
 
 Nevigate to folders for further instructions
